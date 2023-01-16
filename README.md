@@ -1,2 +1,2 @@
 # Tarea2_Repositorios
-Repositorio tarea 2
+Tarea para familiarizarse con los repositorios y Github
